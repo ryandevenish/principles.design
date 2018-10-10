@@ -2,7 +2,7 @@
 title: Opower - Design Principles
 author: Opower
 overview:
-link:
+link: https://ux.opower.com/#principles
 principles:
 - principle: Design for how people actually behave
 - principle: Assume people don’t care
